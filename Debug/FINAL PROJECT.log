@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\IF01\project01\FINAL PROJECT\main.cpp(41,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(63,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(85,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(107,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(129,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(151,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(173,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IF01\project01\FINAL PROJECT\main.cpp(195,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FINAL PROJECT.vcxproj -> D:\IF01\project01\Debug\FINAL PROJECT.exe
